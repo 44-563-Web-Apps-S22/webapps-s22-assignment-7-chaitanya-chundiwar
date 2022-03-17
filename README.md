@@ -1,6 +1,5 @@
 # WebApps-S22-Assignment-7
 An assignment on java script modifying the DOM and using anonymous callback functions.
-[hosted at: hunt page](https://github.com/44-563-Web-Apps-S22/webapps-s22-assignment-7-chaitanya-chundiwar/blob/main/hunt.html)<br>
-[hosted at: reaction page](https://github.com/44-563-Web-Apps-S22/webapps-s22-assignment-7-chaitanya-chundiwar/blob/main/reaction.html)
-<br>
-[hosted at: queue page](https://github.com/44-563-Web-Apps-S22/webapps-s22-assignment-7-chaitanya-chundiwar/blob/main/queue.html)<br>
+[hosted at: hunt page](https://44-563-web-apps-s22.github.io/webapps-s22-assignment-7-chaitanya-chundiwar/hunt.html)<br>
+[hosted at: reaction page](https://44-563-web-apps-s22.github.io/webapps-s22-assignment-7-chaitanya-chundiwar/reaction.html)<br>
+[hosted at: queue page](https://44-563-web-apps-s22.github.io/webapps-s22-assignment-7-chaitanya-chundiwar/queue.html)
